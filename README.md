@@ -1,3 +1,11 @@
+# Evolutionary Programming – Adult Income Classifier
+
+This project uses **Grammatical Evolution (GE)** to evolve simple, human-readable rules that predict whether a person’s income is above \$50K.
+
+---
+
+## Dataset
+
 This is a binary classification problem where the target variable `income` is:
 
 - `1` if annual income > \$50K  
